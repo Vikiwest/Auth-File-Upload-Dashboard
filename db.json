@@ -1,0 +1,53 @@
+{
+  "customers": [
+    {
+      "id": "db61",
+      "customerName": "Victory",
+      "acctBalance": 7757.79,
+      "currency": "USD",
+      "accountType": "Current"
+    },
+    {
+      "id": "393b",
+      "customerName": "David",
+      "acctBalance": 157.79,
+      "currency": "USD",
+      "accountType": "Savings"
+    },
+    {
+      "id": "d028",
+      "customerName": "Olorunda Victory Chidi",
+      "acctBalance": "100000000",
+      "currency": "USD",
+      "accountType": "Savings"
+    },
+    {
+      "id": "a2b6",
+      "customerName": "Olorunda Victory Chidi",
+      "acctBalance": "10000000000000000000",
+      "currency": "USD",
+      "accountType": "Savings"
+    },
+    {
+      "id": "da2f",
+      "customerName": "Olorunda Victory Chidi",
+      "acctBalance": "100000000",
+      "currency": "Naira",
+      "accountType": "Savings"
+    },
+    {
+      "id": "36e8",
+      "customerName": "Victory Chidi",
+      "acctBalance": "1234566777008000",
+      "currency": "USD",
+      "accountType": "Savings"
+    },
+    {
+      "id": "76a5",
+      "customerName": "Femi Omo werey",
+      "acctBalance": "222000000000000000000",
+      "currency": "USD",
+      "accountType": "Current"
+    }
+  ]
+}
